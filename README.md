@@ -7,6 +7,7 @@ You can create the environment by running the following command:
 
 ```bash
 pip install -r requirements.txt
+```
 
 You can download the trained model from the following links:
 
