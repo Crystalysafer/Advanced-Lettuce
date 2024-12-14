@@ -1,4 +1,4 @@
-# 5-Days-Lettuce
+# Advanced-Lettuce
 
 ## Setting up the Environment
 
